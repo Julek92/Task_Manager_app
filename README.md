@@ -1,6 +1,6 @@
-***TASK MANAGER.***
+# TASK MANAGER.
 
-1st week final work.
+## 1st week final work.
 
 This is a simple console app, where You can add and manage you tasks.
 
