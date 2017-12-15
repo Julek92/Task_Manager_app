@@ -1,8 +1,8 @@
-#TASK MANAGER
+#TASK MANAGER.
 
-##1st week final work
+##1st week final work.
 
-This is a C# console app. You can add and manage you tasks
+This is a simple C# console app, where You can add and manage you tasks.
 
 ##Screenshots:
 * [Screenshot1](https://github.com/julas123/Task_Manager_app/blob/master/Warsztat_Juliusz/Warsztat_1_Juliusz/ProgramData/screenshots/screen1.PNG?raw=true) - app screenshot 1
