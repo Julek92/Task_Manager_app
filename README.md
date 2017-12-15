@@ -1,2 +1,3 @@
-# WarsztatyNetJulek
-Zadanie z warsztatów z C#- dzień 5 tydzień 1
+1st week final work.
+TASK MANAGER.
+This is a C# console app. You can add and manage you tasks.
