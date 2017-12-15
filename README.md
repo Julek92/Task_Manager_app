@@ -1,8 +1,8 @@
-#TASK MANAGER.
+#TASK MANAGER
 
-##1st week final work.
+##1st week final work
 
-This is a C# console app. You can add and manage you tasks.
+This is a C# console app. You can add and manage you tasks
 
 ##Screenshots:
 * [Screenshot1](http://www.dropwizard.io/1.0.2/docs/) - app screenshot 1
